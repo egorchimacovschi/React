@@ -1,6 +1,6 @@
 # React
 
-My dedication to React — a personal collection of practice projects and exercises, built on top of my JavaScript fundamentals, organized by folder.
+My dedication to React — a personal collection of practice projects and exercises, built on top of my JavaScript fundamentals.
 
 ## 📁 Repository Structure
 
